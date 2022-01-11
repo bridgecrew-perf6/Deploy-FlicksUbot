@@ -14,8 +14,8 @@
   "success_url": "https://t.me/FlicksSupport",
   "stack": "container",
   "env": {
-    "API_KEY": {
-      "description": "Dapatkan Api Key di web my.telegram.org ,masukan yang API ID",
+    "API_ID": {
+      "description": "Dapatkan Api Id di web my.telegram.org",
       "required": true
     },
     "API_HASH": {
